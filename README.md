@@ -1,5 +1,6 @@
 # datascience-project
-#Kaggle Competition 
+# Kaggle Competition 
+# BIAO Afolaby Elrick Sullivan
 Le dataset utilisé est celui du Titanic.
 Cette compétition a pour but,de  prédire si les 418 autres passagers à bord   ont survécu.
 Dans un souci d'assurer un bon compromis biais-variance ,nous avons fait attention aux hypothèses et estimé la variance des feature.
